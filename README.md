@@ -1,7 +1,5 @@
 # ImARealPersonCaptcha
 
-Config files for my GitHub profile.
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+hsn-lab!;Developer+%7C+Automation+%7C+Learning;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
 </p>
