@@ -1,7 +1,7 @@
 # ImARealPersonCaptcha
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+hsn-lab!;%E2%80%8Fهسن-لاب+أنا;%E2%80%8Flab-hsn+ہوں+میں;Bonjour%2C+je+suis+hsn-lab!;你好%2C+我是+hsn-lab!;Привет%2C+я+hsn-lab!;Hola%2C+soy+hsn-lab!;Hallo%2C+ich+bin+hsn-lab!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+hsn-lab!;%E2%80%8F%D8%A3%D9%86%D8%A7+hsn-lab!;%E2%80%8F%D9%85%DB%8C%D9%86+hsn-lab+%DB%81%D9%88%D9%86%DA%BA!" alt="Typing animation" />
 </p>
 
 <p align="center">
