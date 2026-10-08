@@ -15,13 +15,3 @@
 <p align="center">
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?username=hsn-lab" />
 </p>
-
-## About
-
-This repository is the home for my GitHub profile configuration and custom profile widgets.
-
-## Highlights
-
-- Streak tracking
-- Profile views counter
-- Contribution snake animation
